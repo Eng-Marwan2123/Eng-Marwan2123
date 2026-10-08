@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Marwan 👋
 
-<!--
-**Eng-Marwan2123/Eng-Marwan2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science intern at **Auspify Technologies**, based in Egypt. I build data pipelines, forecasting models, and analytics dashboards with Python and SQL.
 
-Here are some ideas to get you started:
+## Featured project: FORESIGHT 📈
+**AI-powered demand forecasting and inventory intelligence platform.** It turns raw sales and inventory data into SKU-level forecasts and inventory decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Forecasts demand for each SKU for the next 3 months with **Facebook Prophet**
+- Detects **stockout and overstock risks** and generates replenishment recommendations
+- Automatically cleans and validates data: missing values, invalid dates, duplicates, wrong quantities, discounts, and revenue
+- Stores results in **PostgreSQL (Neon)** through SQLAlchemy
+- Interactive **Streamlit** dashboard where users upload data and run the pipeline, plus **Power BI** reporting
+
+`Python` `Pandas` `NumPy` `Prophet` `SQLAlchemy` `PostgreSQL` `Streamlit` `Plotly` `Power BI`
+
+🔗 [Repository]([your FORESIGHT repo link])
+
+## More projects
+| Project | What it does |
+|---|---|
+| [Netflix_auspify_intern](https://github.com/Eng-Marwan2123/Netflix_auspify_intern) | Cleans and enriches the Netflix titles dataset with Pandas and the TMDB API, then EDA and a recommendation system |
+| [BPO analytics project]([your repo link]) | Customer service analytics pipeline: API → Python ETL → PostgreSQL → SQL KPIs → Power BI |
+
+## Tech I use
+Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL · PostgreSQL · SQLAlchemy · Streamlit · Power BI · REST APIs · Git and GitHub
+
+## Currently learning
+Recommendation systems, machine learning with scikit-learn, and production-style data pipelines
+
+## Connect
+- LinkedIn: [your LinkedIn URL]
+- Email: [your email, optional]
