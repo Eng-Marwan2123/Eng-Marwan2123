@@ -20,6 +20,7 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 |---|---|
 | [Netflix_auspify_intern](https://github.com/Eng-Marwan2123/Netflix_auspify_intern) | Cleans and enriches the Netflix titles dataset with Pandas and the TMDB API, then EDA and a recommendation system |
 | [BPO analytics project](https://github.com/Eng-Marwan2123/BPO.git) | Customer service analytics pipeline: API → Python ETL → PostgreSQL → SQL KPIs → Power BI |
+| FORESIGHT	AI demand forecasting and inventory intelligence platform |	Python, Prophet, PostgreSQL/Neon, Streamlit, Power BI	Built| 
 
 ## Tech I use
 Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL · PostgreSQL · SQLAlchemy · Streamlit · Power BI · REST APIs · Git and GitHub
