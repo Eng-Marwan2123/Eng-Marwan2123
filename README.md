@@ -34,14 +34,15 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
   <img src="https://img.shields.io/badge/Prophet-0866FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
 </p>
 ## Currently learning
 Recommendation systems, machine learning with scikit-learn, and production-style data pipelines
