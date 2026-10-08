@@ -28,5 +28,5 @@ Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL �
 Recommendation systems, machine learning with scikit-learn, and production-style data pipelines
 
 ## Connect
-- LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)]
+- LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)
 - Email: [Frgtrhg@gmail.com]
