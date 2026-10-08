@@ -51,6 +51,7 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 - 🎯 Recommendation systems
 - 🤖 Machine learning with scikit-learn
 - 🔧 Production-style data pipelines <br>
+<div align="center">
 
 ## Experience
 
@@ -69,6 +70,7 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 
 🔗 [Full history on LinkedIn](https://www.linkedin.com/in/engmarawanashraf/)
 
+</div>
 ## Connect
 - LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)
 - Email: Frgtrhg@gmail.com
