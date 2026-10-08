@@ -13,7 +13,7 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 
 `Python` `Pandas` `NumPy` `Prophet` `SQLAlchemy` `PostgreSQL` `Streamlit` `Plotly` `Power BI`
 
-🔗 [Repository]([[your FORESIGHT repo link](https://github.com/Eng-Marwan2123/FORESIGHT-AI-Powered-Demand-Inventory-Intelligence-Platform.git))
+🔗 [Repository](https://github.com/Eng-Marwan2123/FORESIGHT-AI-Powered-Demand-Inventory-Intelligence-Platform.git)
 
 ## More projects
 | Project | What it does |
