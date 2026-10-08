@@ -47,14 +47,13 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 
 ## Currently learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,py,postgres" />
-</p>
 
 - 🎯 Recommendation systems
 - 🤖 Machine learning with scikit-learn
 - 🔧 Production-style data pipelines
 
+
+<br>
 | Role | Company | Period |
 |---|---|---|
 | **Data Scientist** (Internship) | Auspify Technologies · Remote | Oct 2026 – Present |
