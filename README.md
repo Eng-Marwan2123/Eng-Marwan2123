@@ -70,7 +70,8 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 
 🔗 [Full history on LinkedIn](https://www.linkedin.com/in/engmarawanashraf/)
 
-</div>
+</div> <br>
+
 ## Connect
 - LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)
 - Email: Frgtrhg@gmail.com
