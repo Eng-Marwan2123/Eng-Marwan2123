@@ -19,7 +19,7 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 | Project | What it does |
 |---|---|
 | [Netflix_auspify_intern](https://github.com/Eng-Marwan2123/Netflix_auspify_intern) | Cleans and enriches the Netflix titles dataset with Pandas and the TMDB API, then EDA and a recommendation system |
-| [BPO analytics project](https://github.com/Eng-Marwan2123/BPO.git)) | Customer service analytics pipeline: API → Python ETL → PostgreSQL → SQL KPIs → Power BI |
+| [BPO analytics project](https://github.com/Eng-Marwan2123/BPO.git) | Customer service analytics pipeline: API → Python ETL → PostgreSQL → SQL KPIs → Power BI |
 
 ## Tech I use
 Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL · PostgreSQL · SQLAlchemy · Streamlit · Power BI · REST APIs · Git and GitHub
@@ -28,5 +28,5 @@ Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL �
 Recommendation systems, machine learning with scikit-learn, and production-style data pipelines
 
 ## Connect
-- LinkedIn: [[your LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)]
+- LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)]
 - Email: [Frgtrhg@gmail.com]
