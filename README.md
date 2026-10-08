@@ -50,10 +50,10 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 
 - 🎯 Recommendation systems
 - 🤖 Machine learning with scikit-learn
-- 🔧 Production-style data pipelines
+- 🔧 Production-style data pipelines <br>
 
+## Experience
 
-<br>
 | Role | Company | Period |
 |---|---|---|
 | **Data Scientist** (Internship) | Auspify Technologies · Remote | Oct 2026 – Present |
@@ -74,6 +74,9 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 - **Data Entry Clerk**, government job (part-time) · Jul 2024 – Sep 2024
 - **Social Media Designer**, Elwakers · Jan 2023 – Jun 2023: designed banners for companies and esports teams
 
+</details>
+
+🔗 [Full history on LinkedIn](https://www.linkedin.com/in/engmarawanashraf/)
 
 ## Connect
 - LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)
