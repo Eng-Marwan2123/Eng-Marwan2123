@@ -23,8 +23,28 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 | [FORESIGHT	AI demand forecasting and inventory intelligence platform](https://eng-marwan2123-foresight-ai-powered-demand-inventory-app-3vb8mx.streamlit.app/) |	Python, Prophet, PostgreSQL/Neon, Streamlit, Power BI	Built| 
 
 ## Tech I use
-Python · Pandas · NumPy · Prophet · Matplotlib · Seaborn · Plotly · SQL · PostgreSQL · SQLAlchemy · Streamlit · Power BI · REST APIs · Git and GitHub
+## Tech I use
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,sklearn,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prophet-0866FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+</p>
 ## Currently learning
 Recommendation systems, machine learning with scikit-learn, and production-style data pipelines
 
