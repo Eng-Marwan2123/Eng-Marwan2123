@@ -60,21 +60,12 @@ Data Science intern at **Auspify Technologies**, based in Egypt. I build data pi
 | **Data Analyst** (Freelance) | Fiverr · Remote | Aug 2025 – Present |
 | **Data Analyst** (Internship) | Zidio Development · Remote | Jul 2026 – Sep 2026 |
 | **Customer Service Specialist** | Majorel · Alexandria | Feb 2026 – Present |
+| **Data Scientist** (Internship) | Auspify Technologies · Remote | Oct 2026 – Present |
+| **Data Analyst** (Freelance) | Fiverr · Remote | Aug 2025 – Present |
+| **Data Analyst** (Internship) | Zidio Development · Remote | Jul 2026 – Sep 2026 |
+| **Customer Service Specialist** | Majorel · Alexandria | Feb 2026 – Present |
 
-- **Auspify:** data cleaning, EDA, and a content-based recommendation system on the Netflix dataset, using Python, Pandas, and APIs.
-- **Fiverr:** collecting, cleaning, and analyzing data for clients, using SQL for querying, Power BI for interactive dashboards, and Excel for advanced data manipulation and reporting.
-- **Zidio:** data analysis with Python and Excel.
 
-<details>
-<summary>Earlier experience</summary>
-
-- **Customer Service Specialist**, Concentrix · Oct 2025 – Feb 2026: resolved order and account issues with clear communication and problem-solving
-- **L2 Escalation team**, TP · Jul 2025 – Oct 2025
-- **Customer Service Specialist** (IT support), TP · Jan 2025 – Jul 2025: troubleshooting mobile devices, billing inquiries, and escalating complex issues to technical teams
-- **Data Entry Clerk**, government job (part-time) · Jul 2024 – Sep 2024
-- **Social Media Designer**, Elwakers · Jan 2023 – Jun 2023: designed banners for companies and esports teams
-
-</details>
 
 🔗 [Full history on LinkedIn](https://www.linkedin.com/in/engmarawanashraf/)
 
