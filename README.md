@@ -30,4 +30,4 @@ Recommendation systems, machine learning with scikit-learn, and production-style
 
 ## Connect
 - LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/engmarawanashraf)
-- Email: [Frgtrhg@gmail.com]
+- Email: Frgtrhg@gmail.com
